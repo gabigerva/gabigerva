@@ -1,7 +1,6 @@
 ## Oiee! Bem-vinda/o/e ao meu perfil! Eu sou a Gabriela Gervasoni 🤗
 
 - 🌱 Estou aprendendo HTML, SQL (MySQL) e modelagem de dados
-- 🎯 Atualmente estou aprimorando meus conhecimentos para ingressar no mercado de trabalho!
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Cursando mestrado em Sociologia na Universidade Estadual de Londrina (UEL)
 - 🎓 Formada em Ciências Sociais (Bacharelado) pela Universidade Estadual de Londrina (UEL)
@@ -10,8 +9,8 @@
 
 <div>
   <a href="https://github.com/gabigerva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabigerva&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigerva&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabigerva&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabigerva&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
 </div>
 
 <div>
