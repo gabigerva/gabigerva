@@ -1,6 +1,6 @@
 ## Oiee! Bem-vinda/o/e ao meu perfil! Eu sou a Gabriela Gervasoni 🤗
 
-- 🌱 Estou aprendendo HTML, SQL (MySQL) e modelagem de dados
+- 🌱 Aprendiz de Dev Web
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Cursando mestrado em Sociologia na Universidade Estadual de Londrina (UEL)
 - 🎓 Formada em Ciências Sociais (Bacharelado) pela Universidade Estadual de Londrina (UEL)
